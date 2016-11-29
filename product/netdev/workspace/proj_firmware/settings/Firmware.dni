@@ -1,0 +1,103 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[InterruptLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+SumSortOrder=0
+[Interrupts]
+Enabled=1
+[MemoryMap]
+Enabled=0
+Base=0
+UseAuto=0
+TypeViolation=1
+UnspecRange=1
+ActionState=1
+[Trace1]
+Enabled=0
+ShowSource=1
+[DebugChecksum]
+Checksum=1206853061
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[struct_types]
+Fmt0=ETH_DMADESCTypeDef-Buffer1Addr	4	0
+Fmt1=ETH_DMADESCTypeDef-Buffer2NextDescAddr	4	0
+Fmt2=ETH_DMADESCTypeDef-Status	4	0
+Fmt3=USART_TypeDef-SR	4	0
+Fmt4=struct ip_addr-addr	4	0
+Fmt5=struct netif-num	4	0
+Fmt6=uart_fifo_t-txBuf	4	0
+[watch_formats]
+Fmt0={W}0:GExLinkMaskCurr	4	0
+Fmt1={W}0:MIIReg	4	0
+Fmt2={W}0:RegValue	4	0
+Fmt3={W}0:ReqID	4	0
+Fmt4={W}0:RingHportVec	4	0
+Fmt5={W}0:data	4	0
+Fmt6={W}0:dev->validPortVec	4	0
+Fmt7={W}0:eeprom_address	4	0
+Fmt8={W}0:gNeighborReqEnBitMap	4	0
+Fmt9={W}0:gTrapInfo.GateMask	4	0
+Fmt10={W}0:hwport_vec	4	0
+Fmt11={W}0:length	3	0
+Fmt12={W}0:mask	4	0
+Fmt13={W}0:num	4	0
+Fmt14={W}0:ouiMsb	4	0
+Fmt15={W}0:pBuffer	4	0
+Fmt16={W}0:phyInfo.phyId	4	0
+Fmt17={W}0:phyid_high	4	0
+Fmt18={W}0:phyid_low	4	0
+Fmt19={W}0:portVec	4	0
+Fmt20={W}0:port_list_vec	4	0
+Fmt21={W}0:ppuState	4	0
+Fmt22={W}0:priority	3	0
+Fmt23={W}0:queue_num	3	0
+Fmt24={W}0:regData	1	0
+Fmt25={W}0:reg_val	4	0
+Fmt26={W}0:reg_val_addr0a	4	0
+Fmt27={W}0:single_port_isolation_cfg	1	0
+Fmt28={W}0:smid	4	0
+Fmt29={W}0:sock	4	0
+Fmt30={W}0:tmpData	4	0
+Fmt31={W}0:trunkMask	4	0
+Fmt32={W}0:u16Data	4	0
+Fmt33={W}0:value	4	0
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[CallStackLog]
+Enabled=0
+[DriverProfiling]
+Enabled=0
+Mode=0
+Graph=0
+Symbiont=0
+Exclusions=
+[Disassemble mode]
+mode=0
+[Breakpoints2]
+Count=0
+[Aliases]
+Count=0
+SuppressDialog=0

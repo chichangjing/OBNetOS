@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+    
+    
+  <CurrentConfigs><Project>Firmware/Debug</Project><Project>Bootloader/Debug</Project></CurrentConfigs><CurrentProj>Firmware</CurrentProj><OverviewSelected>0</OverviewSelected></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>213</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      <PreferedWindows><Position>1</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></Workspace>
+      <Build>
+        
+        
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Debug-Log</Factory></Window><Window><Factory>Find-in-Files</Factory></Window></Windows></PreferedWindows><ColumnWidth0>16</ColumnWidth0><ColumnWidth1>852</ColumnWidth1><ColumnWidth2>227</ColumnWidth2><ColumnWidth3>56</ColumnWidth3></Build>
+    <TerminalIO/><Debug-Log><ColumnWidth0>17</ColumnWidth0><ColumnWidth1>1552</ColumnWidth1><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Build</Factory></Window><Window><Factory>Find-in-Files</Factory></Window></Windows></PreferedWindows></Debug-Log><Find-in-Files><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Build</Factory></Window><Window><Factory>Debug-Log</Factory></Window></Windows></PreferedWindows><ColumnWidth0>462</ColumnWidth0><ColumnWidth1>66</ColumnWidth1><ColumnWidth2>792</ColumnWidth2></Find-in-Files></Static>
+    <Windows>
+      
+      
+    <Wnd0><Tabs><Tab><Identity>TabID-7389-4498</Identity><TabName>Workspace</TabName><Factory>Workspace</Factory><Session><NodeDict><ExpandedNode>Firmware</ExpandedNode><ExpandedNode>Firmware/Apps</ExpandedNode><ExpandedNode>Firmware/Protocal</ExpandedNode><ExpandedNode>Firmware/Protocal/LwIP_v1.3.2</ExpandedNode><ExpandedNode>Firmware/Protocal/LwIP_v1.3.2/Netif</ExpandedNode></NodeDict></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd0><Wnd1><Tabs><Tab><Identity>TabID-22090-4632</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab><Tab><Identity>TabID-2348-29016</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\firmware\main.c</Filename><XPos>0</XPos><YPos>195</YPos><SelStart>6694</SelStart><SelEnd>6709</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\platform\stm32f2xx\drivers\robo_drv.c</Filename><XPos>0</XPos><YPos>299</YPos><SelStart>10022</SelStart><SelEnd>10022</SelEnd></Tab><ActiveTab>1</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\protocol\lwip_v1.3.2\port\STM32F2x7\FreeRTOS\ethernetif.c</Filename><XPos>0</XPos><YPos>111</YPos><SelStart>4138</SelStart><SelEnd>4138</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\feature\cm\conf_port.c</Filename><XPos>0</XPos><YPos>15</YPos><SelStart>665</SelStart><SelEnd>665</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\platform\stm32f2xx\drivers\robo_if.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>195</SelStart><SelEnd>195</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\platform\stm32f2xx\drivers\console.c</Filename><XPos>0</XPos><YPos>403</YPos><SelStart>14822</SelStart><SelEnd>14822</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-013795c0><key>iaridepm.enu1</key></Toolbar-013795c0></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>495</Bottom><Right>287</Right><x>-2</x><y>-2</y><xscreen>206</xscreen><yscreen>258</yscreen><sizeHorzCX>200780</sizeHorzCX><sizeHorzCY>376093</sizeHorzCY><sizeVertCX>281676</sizeVertCX><sizeVertCY>724490</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>146</Bottom><Right>1028</Right><x>-2</x><y>-2</y><xscreen>1030</xscreen><yscreen>148</yscreen><sizeHorzCX>1003899</sizeHorzCX><sizeHorzCY>215743</sizeHorzCY><sizeVertCX>200780</sizeVertCX><sizeVertCY>376093</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

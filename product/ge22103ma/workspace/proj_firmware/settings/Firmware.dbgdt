@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Find-in-Files</Factory></Window></Windows></PreferedWindows><ColumnWidth0>18</ColumnWidth0><ColumnWidth1>1863</ColumnWidth1></Debug-Log>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>18</ColumnWidth0><ColumnWidth1>1397</ColumnWidth1><ColumnWidth2>372</ColumnWidth2><ColumnWidth3>93</ColumnWidth3><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Debug-Log</Factory></Window><Window><Factory>Find-in-Files</Factory></Window></Windows></PreferedWindows></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>277</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      <PreferedWindows><Position>1</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></Workspace>
+      <Disassembly>
+        <col-names>
+          
+          
+        <item>Disassembly</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>500</item><item>20</item></col-widths>
+        <DisasmHistory/>
+        
+        
+      <PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ShowCodeCoverage>0</ShowCodeCoverage><ShowInstrProfiling>0</ShowInstrProfiling></Disassembly>
+    <WATCH_1><expressions><item>pSignalCfg-&gt;AlarmType</item><item>sigcfg.AlarmType</item><item>pPortConfig-&gt;PortNum</item><item>length</item><item>address</item><item>pBuffer</item><item>gLportMap[i].port</item><item>i</item><item>lport</item><item>port</item><item>gLportMap[2].port</item><item>dev</item><item>value</item><item>ut1rxtimeout</item><item>value</item><item/></expressions><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>178</item><item>150</item><item>208</item><item>283</item></col-widths><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></WATCH_1><QuickWatch><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>100</item><item>150</item><item>100</item><item>100</item></col-widths><QWatchHistory/></QuickWatch><CallStack><col-names><item>Frame</item><item>_I0</item></col-names><col-widths><item>400</item><item>20</item></col-widths><PreferedWindows><Position>1</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></CallStack><Breakpoints><col-names><item>Breakpoint</item><item>_I0</item></col-names><col-widths><item>500</item><item>35</item></col-widths><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></Breakpoints><Locals><col-names><item>Location</item><item>Type</item><item>Value</item><item>Variable</item></col-names><col-widths><item>150</item><item>100</item><item>100</item><item>100</item></col-widths><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></Locals><STACK_1><col-names><item>Data</item><item>Frame</item><item>Location</item><item>Type</item><item>Value</item><item>Variable</item></col-names><col-widths><item>100</item><item>100</item><item>100</item><item>100</item><item>100</item><item>208</item></col-widths><stack>CSTACK</stack><width>4</width><vars>1</vars><offset>0</offset><PreferedWindows><Position>1</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>CallStack</Factory></Window><Window><Factory>STACK_2</Factory></Window></Windows></PreferedWindows></STACK_1><STACK_2><col-names><item>Data</item><item>Frame</item><item>Location</item><item>Type</item><item>Value</item><item>Variable</item></col-names><col-widths><item>100</item><item>100</item><item>100</item><item>100</item><item>100</item><item>199</item></col-widths><stack>CSTACK</stack><width>4</width><vars>1</vars><offset>0</offset><PreferedWindows><Position>1</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>CallStack</Factory></Window><Window><Factory>STACK_1</Factory></Window></Windows></PreferedWindows></STACK_2><SYMLIST><PreferedWindows><Position>1</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></SYMLIST><Memory><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><FindDirection>1</FindDirection><FindAsHex>0</FindAsHex></Memory><WATCH_2><expressions><item/></expressions><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>100</item><item>150</item><item>100</item><item>100</item></col-widths><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>WATCH_1</Factory></Window><Window><Factory>WATCH_3</Factory></Window><Window><Factory>WATCH_4</Factory></Window></Windows></PreferedWindows></WATCH_2><WATCH_3><expressions><item/></expressions><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>100</item><item>150</item><item>100</item><item>100</item></col-widths><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>WATCH_1</Factory></Window><Window><Factory>WATCH_2</Factory></Window><Window><Factory>WATCH_4</Factory></Window></Windows></PreferedWindows></WATCH_3><WATCH_4><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>WATCH_1</Factory></Window><Window><Factory>WATCH_2</Factory></Window><Window><Factory>WATCH_3</Factory></Window></Windows></PreferedWindows><expressions><item/></expressions><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>100</item><item>150</item><item>100</item><item>100</item></col-widths></WATCH_4><Find-in-Files><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Debug-Log</Factory></Window></Windows></PreferedWindows><ColumnWidth0>462</ColumnWidth0><ColumnWidth1>66</ColumnWidth1><ColumnWidth2>792</ColumnWidth2></Find-in-Files><Register><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></Register></Static>
+    <Windows>
+      
+      
+      
+    <Wnd0><Tabs><Tab><Identity>TabID-32246-20806</Identity><TabName>Workspace</TabName><Factory>Workspace</Factory><Session><NodeDict><ExpandedNode>Firmware</ExpandedNode><ExpandedNode>Firmware/Apps</ExpandedNode><ExpandedNode>Firmware/Feature</ExpandedNode><ExpandedNode>Firmware/Feature/CLI</ExpandedNode><ExpandedNode>Firmware/Feature/FPGA</ExpandedNode><ExpandedNode>Firmware/Feature/FPGA/I2cDev</ExpandedNode><ExpandedNode>Firmware/Feature/FPGA/fpga_app</ExpandedNode><ExpandedNode>Firmware/Feature/NMS</ExpandedNode><ExpandedNode>Firmware/Feature/SigSrv</ExpandedNode><ExpandedNode>Firmware/Platform</ExpandedNode><ExpandedNode>Firmware/Protocal</ExpandedNode><ExpandedNode>Firmware/Protocal/LwIP_v1.3.2</ExpandedNode><ExpandedNode>Firmware/Protocal/LwIP_v1.3.2/Netif</ExpandedNode><ExpandedNode>Firmware/Protocal/OB-Ring</ExpandedNode></NodeDict></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd0><Wnd2><Tabs><Tab><Identity>TabID-11139-29672</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-15985-7848</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd2><Wnd4><Tabs><Tab><Identity>TabID-543-25331</Identity><TabName>Watch 1</TabName><Factory>WATCH_1</Factory></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd4></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\firmware\main.c</Filename><XPos>0</XPos><YPos>63</YPos><SelStart>1734</SelStart><SelEnd>1734</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\firmware\mconfig.h</Filename><XPos>0</XPos><YPos>6</YPos><SelStart>455</SelStart><SelEnd>455</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\feature\sigsrv\sig_srv.c</Filename><XPos>0</XPos><YPos>117</YPos><SelStart>3652</SelStart><SelEnd>3652</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\feature\fpga\fpga_app\fpga_task.c</Filename><XPos>0</XPos><YPos>123</YPos><SelStart>3053</SelStart><SelEnd>3122</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\feature\fpga\fpga_app\common.c</Filename><XPos>0</XPos><YPos>1283</YPos><SelStart>33243</SelStart><SelEnd>33243</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\feature\fpga\fpga_debug\fpga_debug.h</Filename><XPos>0</XPos><YPos>12</YPos><SelStart>494</SelStart><SelEnd>494</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\feature\fpga\fpga_app\upgrade.c</Filename><XPos>0</XPos><YPos>232</YPos><SelStart>6230</SelStart><SelEnd>6230</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\feature\fpga\hal\hal_uart.c</Filename><XPos>0</XPos><YPos>166</YPos><SelStart>4918</SelStart><SelEnd>4918</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\feature\fpga\fpga_app\spi_flash.c</Filename><XPos>0</XPos><YPos>69</YPos><SelStart>3218</SelStart><SelEnd>3218</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-013794b0><key>iaridepm.enu1</key></Toolbar-013794b0></Sizes></Row0><Row1><Sizes><Toolbar-05342568><key>debuggergui.enu1</key></Toolbar-05342568></Sizes></Row1></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>488</Bottom><Right>368</Right><x>-2</x><y>-2</y><xscreen>248</xscreen><yscreen>239</yscreen><sizeHorzCX>182353</sizeHorzCX><sizeHorzCY>345376</sizeHorzCY><sizeVertCX>272059</sizeVertCX><sizeVertCY>708092</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes><Wnd4><Rect><Top>-2</Top><Left>-2</Left><Bottom>488</Bottom><Right>245</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>147059</sizeHorzCX><sizeHorzCY>289017</sizeHorzCY><sizeVertCX>181618</sizeVertCX><sizeVertCY>708092</sizeVertCY></Rect></Wnd4></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>135</Bottom><Right>1362</Right><x>-2</x><y>-2</y><xscreen>1364</xscreen><yscreen>137</yscreen><sizeHorzCX>1002941</sizeHorzCX><sizeHorzCY>197977</sizeHorzCY><sizeVertCX>147059</sizeVertCX><sizeVertCY>289017</sizeVertCY></Rect></Wnd2></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+

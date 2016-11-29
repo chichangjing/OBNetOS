@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1382</ColumnWidth1></Debug-Log>
+      <Build>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>1036</ColumnWidth1>
+        <ColumnWidth2>276</ColumnWidth2>
+        <ColumnWidth3>69</ColumnWidth3>
+      </Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>130</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <col-names>
+          
+          
+        <item>Disassembly</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>500</item><item>20</item></col-widths>
+        <DisasmHistory/>
+        
+        
+      <ShowCodeCoverage>0</ShowCodeCoverage><ShowInstrProfiling>0</ShowInstrProfiling></Disassembly>
+    <STACK_1><col-names><item>Data</item><item>Frame</item><item>Location</item><item>Type</item><item>Value</item><item>Variable</item></col-names><col-widths><item>100</item><item>100</item><item>100</item><item>100</item><item>100</item><item>97</item></col-widths><stack>CSTACK</stack><width>4</width><vars>1</vars><offset>0</offset></STACK_1></Static>
+    <Windows>
+      
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-22871-30449</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-22348-30458</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-851-30452</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>Bootloader</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3><Wnd4>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-11600-30455</Identity>
+            <TabName>Disassembly</TabName>
+            <Factory>Disassembly</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd4><Wnd5><Tabs><Tab><Identity>TabID-14231-5945</Identity><TabName>Stack 1</TabName><Factory>STACK_1</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd5></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\feature\cm\conf_comm.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\firmware\main.c</Filename><XPos>0</XPos><YPos>155</YPos><SelStart>5789</SelStart><SelEnd>5789</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\firmware\mconfig.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>192</SelStart><SelEnd>192</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\feature\sigsrv\sig_srv.c</Filename><XPos>0</XPos><YPos>71</YPos><SelStart>2190</SelStart><SelEnd>2190</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\protocol\lwip_v1.3.2\src\include\lwip\sockets.h</Filename><XPos>0</XPos><YPos>81</YPos><SelStart>3564</SelStart><SelEnd>3564</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\bootloader\loader\bootloader.c</Filename><XPos>0</XPos><YPos>71</YPos><SelStart>2233</SelStart><SelEnd>2233</SelEnd></Tab><ActiveTab>5</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0137a558><key>iaridepm.enu1</key></Toolbar-0137a558></Sizes></Row0><Row1><Sizes><Toolbar-0a5d7ba8><key>debuggergui.enu1</key></Toolbar-0a5d7ba8></Sizes></Row1></Top><Left><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>498</Bottom><Right>204</Right><x>-2</x><y>-2</y><xscreen>124</xscreen><yscreen>123</yscreen><sizeHorzCX>104027</sizeHorzCX><sizeHorzCY>178779</sizeHorzCY><sizeVertCX>172819</sizeVertCX><sizeVertCY>726744</sizeVertCY></Rect></Wnd3></Sizes></Row0><Row1><Sizes><Wnd5><Rect><Top>-2</Top><Left>202</Left><Bottom>498</Bottom><Right>542</Right><x>202</x><y>-2</y><xscreen>124</xscreen><yscreen>141</yscreen><sizeHorzCX>104027</sizeHorzCX><sizeHorzCY>204942</sizeHorzCY><sizeVertCX>285235</sizeVertCX><sizeVertCY>726744</sizeVertCY></Rect></Wnd5></Sizes></Row1></Left><Right><Row0><Sizes><Wnd4><Rect><Top>-2</Top><Left>-2</Left><Bottom>498</Bottom><Right>122</Right><x>-2</x><y>-2</y><xscreen>124</xscreen><yscreen>123</yscreen><sizeHorzCX>104027</sizeHorzCX><sizeHorzCY>178779</sizeHorzCY><sizeVertCX>104027</sizeVertCX><sizeVertCY>726744</sizeVertCY></Rect></Wnd4></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>121</Bottom><Right>1194</Right><x>-2</x><y>-2</y><xscreen>1196</xscreen><yscreen>123</yscreen><sizeHorzCX>1003356</sizeHorzCX><sizeHorzCY>178779</sizeHorzCY><sizeVertCX>104027</sizeVertCX><sizeVertCY>178779</sizeVertCY></Rect></Wnd0></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+

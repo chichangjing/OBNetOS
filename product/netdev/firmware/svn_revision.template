@@ -1,0 +1,8 @@
+#ifndef _SVN_REVISION_H
+#define _SVN_REVISION_H
+
+#define SVN_REVISION $WCREV$
+#define BUILD_TIME   "$WCNOW$"
+
+#endif
+

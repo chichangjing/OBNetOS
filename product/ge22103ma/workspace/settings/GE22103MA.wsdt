@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+    
+    
+  <CurrentConfigs><Project>Bootloader/Debug</Project><Project>Firmware/Debug</Project></CurrentConfigs><CurrentProj>Firmware</CurrentProj><OverviewSelected>0</OverviewSelected></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>139</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      <PreferedWindows><Position>1</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></Workspace>
+      <Build>
+        
+        
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Debug-Log</Factory></Window></Windows></PreferedWindows><ColumnWidth0>18</ColumnWidth0><ColumnWidth1>640</ColumnWidth1><ColumnWidth2>170</ColumnWidth2><ColumnWidth3>42</ColumnWidth3></Build>
+      <TerminalIO/>
+    <Debug-Log><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Build</Factory></Window></Windows></PreferedWindows><ColumnWidth0>17</ColumnWidth0><ColumnWidth1>1864</ColumnWidth1></Debug-Log><Breakpoints><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><col-names><item>Breakpoint</item><item>_I0</item></col-names><col-widths><item>500</item><item>35</item></col-widths></Breakpoints><Find-in-Files><ColumnWidth0>462</ColumnWidth0><ColumnWidth1>66</ColumnWidth1><ColumnWidth2>792</ColumnWidth2></Find-in-Files></Static>
+    <Windows>
+      
+      
+    <Wnd2><Tabs><Tab><Identity>TabID-5066-27975</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-13954-11981</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-12929-7611</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd2><Wnd3><Tabs><Tab><Identity>TabID-24013-20431</Identity><TabName>Workspace</TabName><Factory>Workspace</Factory><Session><NodeDict><ExpandedNode>&lt;ws&gt;</ExpandedNode><ExpandedNode>Bootloader</ExpandedNode><ExpandedNode>Firmware</ExpandedNode><ExpandedNode>Firmware/Apps</ExpandedNode><ExpandedNode>Firmware/Feature</ExpandedNode><ExpandedNode>Firmware/Feature/FPGA</ExpandedNode><ExpandedNode>Firmware/Feature/FPGA/Si5327</ExpandedNode><ExpandedNode>Firmware/Feature/FPGA/hal</ExpandedNode><ExpandedNode>Firmware/Feature/FPGA/misc</ExpandedNode><ExpandedNode>Firmware/Feature/FPGA/tlk10232</ExpandedNode></NodeDict></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\firmware\main.c</Filename><XPos>0</XPos><YPos>120</YPos><SelStart>2968</SelStart><SelEnd>2968</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\firmware\mconfig.h</Filename><XPos>0</XPos><YPos>9</YPos><SelStart>225</SelStart><SelEnd>238</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\feature\dsdt\porting\switch_init.c</Filename><XPos>0</XPos><YPos>87</YPos><SelStart>3133</SelStart><SelEnd>3133</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\feature\cm\conf_port.c</Filename><XPos>0</XPos><YPos>763</YPos><SelStart>26230</SelStart><SelEnd>26230</SelEnd></Tab><ActiveTab>3</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-013795c0><key>iaridepm.enu1</key></Toolbar-013795c0></Sizes></Row0></Top><Left><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>508</Bottom><Right>230</Right><x>-2</x><y>-2</y><xscreen>72</xscreen><yscreen>86</yscreen><sizeHorzCX>52941</sizeHorzCX><sizeHorzCY>124277</sizeHorzCY><sizeVertCX>170588</sizeVertCX><sizeVertCY>736994</sizeVertCY></Rect></Wnd3></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>139</Bottom><Right>1362</Right><x>-2</x><y>-2</y><xscreen>1364</xscreen><yscreen>141</yscreen><sizeHorzCX>1002941</sizeHorzCX><sizeHorzCY>203757</sizeHorzCY><sizeVertCX>16176</sizeVertCX><sizeVertCY>50578</sizeVertCY></Rect></Wnd2></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

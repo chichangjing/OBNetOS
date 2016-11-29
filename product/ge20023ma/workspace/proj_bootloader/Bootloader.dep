@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>1785127669</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\drivers\flash_if.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\misc.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\misc.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f2xx_tim.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\cmd_misc.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\ob_image.o</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\drivers\led_drv.h</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_tim.c</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_usart.c</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\startup\system_stm32f2xx.h</file>
+      <file>$PROJ_DIR$\..\..\bootloader\loader\bootloader.c</file>
+      <file>$PROJ_DIR$\..\..\bootloader\loader\cmd_bdinfo.c</file>
+      <file>$PROJ_DIR$\..\..\bootloader\loader\bdinfo.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f2xx_gpio.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\startup_stm32f2xx.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+      <file>$PROJ_DIR$\..\..\bootloader\loader\stm32f2xx_it.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f2xx_flash.o</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_dcmi.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\xmodem.o</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_cryp.h</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_gpio.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_stm32f2xx.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer.pbi</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_adc.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\console.pbi</file>
+      <file>$PROJ_DIR$\..\..\bootloader\loader\cli.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f2xx_gpio.o</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_flash.c</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_rcc.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f2xx_it.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f2xx_usart.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\cmd_bdinfo.o</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_crc.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f2xx_it.pbi</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\misc.h</file>
+      <file>$PROJ_DIR$\..\..\bootloader\loader\cmd_misc.c</file>
+      <file>$PROJ_DIR$\..\..\bootloader\loader\ob_image.c</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\misc.c</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\startup\system_stm32f2xx.c</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\startup\startup_stm32f2xx.s</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_stm32f2xx.pbi</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmFunc.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\soft_i2c.pbi</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\drivers\soft_i2c.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_hash.h</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_i2c.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\cmd_misc.pbi</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\startup\stm32f2xx.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\cli.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_wwdg.h</file>
+      <file>$PROJ_DIR$\..\..\bootloader\loader\ob_image.h</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\drivers\soft_i2c.c</file>
+      <file>$PROJ_DIR$\..\..\images\Bootloader.out</file>
+      <file>$PROJ_DIR$\Debug\Obj\bdinfo.pbi</file>
+      <file>$PROJ_DIR$\..\..\bootloader\loader\stm32f2xx_it.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f2xx_usart.o</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_can.h</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_dma.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f2xx_rcc.o</file>
+      <file>$PROJ_DIR$\..\..\bootloader\loader\stm32f2xx_conf.h</file>
+      <file>$PROJ_DIR$\..\..\bootloader\loader\bdinfo.h</file>
+      <file>$PROJ_DIR$\..\..\bootloader\loader\timer.c</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\drivers\flash_if.h</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_syscfg.h</file>
+      <file>$PROJ_DIR$\..\..\bootloader\loader\xmodem.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f2xx_tim.o</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_spi.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\console.o</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_rtc.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\bootloader.pbi</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_exti.h</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\drivers\console.h</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_gpio.h</file>
+      <file>$PROJ_DIR$\..\..\images\GE20023MA_Bootloader.bin</file>
+      <file>$PROJ_DIR$\..\..\bootloader\loader\cli.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f2xx_flash.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\xmodem.pbi</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_rng.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\bootloader.o</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_fsmc.h</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_pwr.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Bootloader.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\ob_image.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\flash_if.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\cmd_bdinfo.pbi</file>
+      <file>$PROJ_DIR$\..\..\bootloader\loader\cmd_misc.h</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_usart.h</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\drivers\led_drv.c</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\drivers\console.c</file>
+      <file>$PROJ_DIR$\..\..\bootloader\loader\common.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\bdinfo.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmInstr.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f2xx_rcc.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\led_drv.o</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_iwdg.h</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_sdio.h</file>
+      <file>$PROJ_DIR$\..\..\bootloader\loader\timer.h</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_flash.h</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_dac.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\cli.o</file>
+      <file>$PROJ_DIR$\..\..\bootloader\loader\cmd_bdinfo.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\flash_if.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\led_drv.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\..\platform\util\ob_version.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cm3.h</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_tim.h</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_rcc.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\soft_i2c.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_dbgmcu.h</file>
+      <file>$PROJ_DIR$\..\..\bootloader\loader\xmodem.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\..\..\bootloader\stm32f2xx\drivers\flash_if.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 92</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 114</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 69 51 117 91 53 55 47 99 46 52 102 104 125 43 10 66 25 63 34 21 110 122 19 64 77 109 87 48 79 49 106 88 119 84 75 107 73 70 118 95 56 36</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_tim.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 72</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 118 51 117 91 53 55 47 99 46 52 102 104 125 43 10 66 25 63 34 21 110 122 19 64 77 109 87 48 79 49 106 88 119 84 75 107 73 70 95 56 36</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_usart.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 62</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 32</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 95 51 117 91 53 55 47 99 46 52 102 104 125 43 10 66 25 63 34 21 110 122 19 64 77 109 87 48 79 49 106 88 119 84 75 107 73 70 118 56 36</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\bootloader\loader\bootloader.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 86</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 76</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 85 53 55 47 99 46 52 121 101 111 16 36 51 117 91 102 104 125 43 10 66 25 63 34 21 110 122 19 64 77 109 87 48 79 49 106 88 119 84 75 107 73 70 118 95 56 78 108 45 69 7 67 98 81 123 57 116 94 113</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\bootloader\loader\cmd_bdinfo.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 33</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 93</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 85 53 55 47 99 46 52 121 101 111 16 0 51 117 91 102 104 125 43 10 66 25 63 34 21 110 122 19 64 77 109 87 48 79 49 106 88 119 84 75 107 73 70 118 95 56 36 45 67 81 113</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\bootloader\loader\bdinfo.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 100</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 85 53 55 47 99 46 52 121 101 111 16 67 45 51 117 91 102 104 125 43 10 66 25 63 34 21 110 122 19 64 77 109 87 48 79 49 106 88 119 84 75 107 73 70 118 95 56 36</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\bootloader\loader\stm32f2xx_it.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 31</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 35</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61 51 117 91 53 55 47 99 46 52 102 104 125 43 10 66 25 63 34 21 110 122 19 64 77 109 87 48 79 49 106 88 119 84 75 107 73 70 118 95 56 36</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_gpio.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 79 51 117 91 53 55 47 99 46 52 102 104 125 43 10 66 25 63 34 21 110 122 19 64 77 109 87 48 49 106 88 119 84 75 107 73 70 118 95 56 36</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\bootloader\loader\cli.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 112</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 85 53 55 47 99 46 52 121 101 111 16 91 81</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_flash.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 18</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 82</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 109 51 117 91 53 55 47 99 46 52 102 104 125 43 10 66 25 63 34 21 110 122 19 64 77 87 48 79 49 106 88 119 84 75 107 73 70 118 95 56 36</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\stm32f2xx_rcc.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 65</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 103</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 119 51 117 91 53 55 47 99 46 52 102 104 125 43 10 66 25 63 34 21 110 122 19 64 77 109 87 48 79 49 106 88 84 75 107 73 70 118 95 56 36</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\bootloader\loader\cmd_misc.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 5</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 50</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 85 53 55 47 99 46 52 121 101 111 16 0 51 117 91 102 104 125 43 10 66 25 63 34 21 110 122 19 64 77 109 87 48 79 49 106 88 119 84 75 107 73 70 118 95 56 36 45 81 94</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\bootloader\loader\ob_image.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 6</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 90</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 85 53 55 47 99 46 52 121 101 111 16 57 51 117 91 102 104 125 43 10 66 25 63 34 21 110 122 19 64 77 109 87 48 79 49 106 88 119 84 75 107 73 70 118 95 56 36 45</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\bootloader\stm32f2xx\std_periph_driver\misc.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 2</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 3</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 36 51 117 91 53 55 47 99 46 52 102 104 125 43 10 66 25 63 34 21 110 122 19 64 77 109 87 48 79 49 106 88 119 84 75 107 73 70 118 95 56</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\bootloader\stm32f2xx\startup\system_stm32f2xx.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 23</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 51 117 91 53 55 47 99 46 52 102 104 125 43 10 66 25 63 34 21 110 122 19 64 77 109 87 48 79 49 106 88 119 84 75 107 73 70 118 95 56 36</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\bootloader\stm32f2xx\startup\startup_stm32f2xx.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 15</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\bootloader\stm32f2xx\drivers\soft_i2c.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 120</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 44</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 85 53 55 47 99 46 52 121 101 45 51 117 91 102 104 125 43 10 66 25 63 34 21 110 122 19 64 77 109 87 48 79 49 106 88 119 84 75 107 73 70 118 95 56 36</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\images\Bootloader.out</name>
+      <outputs>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 80</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\bootloader\loader\timer.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 124</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 24</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 36 51 117 91 53 55 47 99 46 52 102 104 125 43 10 66 25 63 34 21 110 122 19 64 77 109 87 48 79 49 106 88 119 84 75 107 73 70 118 95 56 108</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\bootloader\loader\xmodem.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 20</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 83</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 85 53 55 47 99 46 52 121 101 111 16 0 51 117 91 102 104 125 43 10 66 25 63 34 21 110 122 19 64 77 109 87 48 79 49 106 88 119 84 75 107 73 70 118 95 56 36 78 108 69 45 81 123 57</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\Bootloader.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 60 76 54 93 50 26 114 115 3 90 44 82 14 35 103 4 32 42 24 83</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\bootloader\stm32f2xx\drivers\led_drv.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 105</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 115</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 51 117 91 53 55 47 99 46 52 102 104 125 43 10 66 25 63 34 21 110 122 19 64 77 109 87 48 79 49 106 88 119 84 75 107 73 70 118 95 56 36</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\bootloader\stm32f2xx\drivers\console.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 74</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 85 53 55 47 99 46 52 121 101 36 51 117 91 102 104 125 43 10 66 25 63 34 21 110 122 19 64 77 109 87 48 79 49 106 88 119 84 75 107 73 70 118 95 56 78 98</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 59</file>
+        </tool>
+      </outputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
